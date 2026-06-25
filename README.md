@@ -46,7 +46,3 @@ Field notes on agentic engineering — what actually ships in production, not de
 ### Toolbox
 
 `Python` `TypeScript` &nbsp;·&nbsp; `OpenAI Agents SDK` `Claude` `MCP` `RAG` &nbsp;·&nbsp; `Django` `DRF` &nbsp;·&nbsp; `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` &nbsp;·&nbsp; `Docker` `GitHub Actions` `Cloudflare` `Vercel`
-
----
-
-<p align="center"><i>Open to short engagements on agent architecture, evals practice, and multi-agent design reviews.</i></p>
