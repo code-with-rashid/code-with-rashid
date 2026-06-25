@@ -39,9 +39,12 @@ Technical Lead on the AI engineering team at **Open Innovation AI**, building pr
 
 ### Writing
 
-Field notes on agentic engineering — what actually ships in production, not demo-ware. A recent 7-day series walked through the mental shift, agent anatomy, context engineering, tool design, memory, evals, and multi-agent systems (~500k impressions; ~24k followers on LinkedIn).
+Field notes on agentic engineering — what actually ships in production, not demo-ware. ~500k impressions and ~24k followers across the recent agent series.
 
-→ **[codewithrashid.com](https://codewithrashid.com)** &nbsp;·&nbsp; **[Medium](https://medium.com/@codewithrashid)**
+**Latest essays** &nbsp;·&nbsp; [all posts →](https://medium.com/@codewithrashid)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Toolbox
 
