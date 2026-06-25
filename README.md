@@ -43,7 +43,11 @@ Field notes on agentic engineering — what actually ships in production, not de
 
 **Latest essays** &nbsp;·&nbsp; [all posts →](https://medium.com/@codewithrashid)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Your Agent Is Already in Production. You Just Can’t See It.](https://medium.com/@codewithrashid/your-agent-is-already-in-production-you-just-cant-see-it-710417a4d69f?source=rss-4c641b923a0------2) &nbsp;<sub>Jun 2, 2026</sub>
+- [The MCP Supply Chain Is on Fire — and Anthropic Says That’s by Design](https://medium.com/@codewithrashid/the-mcp-supply-chain-is-on-fire-and-anthropic-says-thats-by-design-1745d612cea3?source=rss-4c641b923a0------2) &nbsp;<sub>May 21, 2026</sub>
+- [Why Your Agent Bill Is 30× Your Chatbot Bill — and How to Get It Back Down](https://medium.com/@codewithrashid/why-your-agent-bill-is-30-your-chatbot-bill-and-how-to-get-it-back-down-1b3ddad4afc6?source=rss-4c641b923a0------2) &nbsp;<sub>May 19, 2026</sub>
+- [The Agentic Org Chart: When Multi-Agent Systems Actually Work](https://medium.com/@codewithrashid/the-agentic-org-chart-when-multi-agent-systems-actually-work-1674ad141ecf?source=rss-4c641b923a0------2) &nbsp;<sub>May 15, 2026</sub>
+- [If You Can’t Eval It, You Don’t Have a Product](https://medium.com/@codewithrashid/if-you-cant-eval-it-you-don-t-have-a-product-1c0763e4305c?source=rss-4c641b923a0------2) &nbsp;<sub>May 14, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ### Toolbox
