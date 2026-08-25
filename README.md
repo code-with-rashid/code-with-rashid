@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Rashid 👋</h1>
 
-**Senior AI Engineer** · Production agent systems, evals, RAG · 11 yrs backend
-📍 Abu Dhabi, UAE · Technical Lead @ Open Innovation AI
+**Agentic AI builder** · Multi-agent systems, context engineering, evals · 11 yrs backend
+📍 Abu Dhabi, UAE
 
-✍️ [Blog](https://codewithrashid.com) · 💼 [LinkedIn](https://www.linkedin.com/in/codewithrashid/) · 📝 [Medium](https://medium.com/@codewithrashid) · ✉️ [Email](mailto:codewithrashid@gmail.com)
+🐦 [X](https://x.com/codewithrashid) · ✍️ [Blog](https://codewithrashid.com) · 💼 [LinkedIn](https://www.linkedin.com/in/codewithrashid/) · 📝 [Medium](https://medium.com/@codewithrashid) · ✉️ [Email](mailto:codewithrashid@gmail.com)
 
 I write field notes on what actually ships in production — not demo-ware. I build the tools I wish existed while doing that work.
 
@@ -20,11 +20,13 @@ The ones I'd point you to first.
 
 ## 🧭 What I work on
 
-**Agents** — multi-agent orchestration, effective-agent patterns (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), tool design and role scoping for LLMs.
+**Agentic systems** — multi-agent orchestration (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), context engineering, MCP & agent-to-agent protocols, tool design and role scoping for LLMs.
 
-**Evals** — error analysis, axial coding, binary judgments. The part that decides whether a demo becomes a product.
+**Evals** — error analysis, axial coding, binary judgments, LLM-as-judge calibration. The part that decides whether a demo becomes a product.
 
 **Retrieval & memory** — hybrid search (BM25 + vectors), reranking, Letta-style Core / Recall / Archival memory.
+
+**Agent safety & tooling** — adversarial testing, sandboxed execution, browser / computer-use agents.
 
 **Backend foundation** — Python, Django/DRF, PostgreSQL, CitusDB, Elasticsearch, Redis, Celery; idempotency and durable execution.
 
