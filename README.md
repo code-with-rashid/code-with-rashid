@@ -20,7 +20,7 @@ The ones I'd point you to first.
 
 ## 🧭 What I work on
 
-**Agentic systems** — multi-agent orchestration (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), context engineering, MCP & agent-to-agent protocols, tool design and role scoping for LLMs.
+**Agentic systems** — multi-agent orchestration (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), context engineering, MCP & agent-to-agent protocols, structured outputs & function calling, tool design and role scoping for LLMs.
 
 **Evals** — error analysis, axial coding, binary judgments, LLM-as-judge calibration. The part that decides whether a demo becomes a product.
 
@@ -28,7 +28,7 @@ The ones I'd point you to first.
 
 **Agent safety & tooling** — adversarial testing, sandboxed execution, browser / computer-use agents.
 
-**Production infra for agents** — the durable, idempotent execution layer that keeps agentic systems reliable in production: Python, Django/DRF, PostgreSQL, CitusDB, Elasticsearch, Redis, Celery.
+**Production infra for agents** — the durable, idempotent execution layer that keeps agentic systems reliable in production: PostgreSQL, CitusDB, Elasticsearch, Redis, Celery.
 
 ## ✍️ Latest writing
 
@@ -43,9 +43,9 @@ The ones I'd point you to first.
 
 ## 🛠 Toolbox
 
-**Agentic** — `OpenAI Agents SDK` `Claude` `Claude Code` `MCP` `RAG` `Python` `TypeScript`
+**Agentic** — `OpenAI Agents SDK` `Claude` `Claude Code` `MCP` `RAG` `Structured Outputs` `Python` `TypeScript`
 
-**Infra** — `Django` `DRF` `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` `Docker` `GitHub Actions` `Cloudflare` `Vercel`
+**Infra** — `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` `Docker` `GitHub Actions` `Cloudflare` `Vercel`
 
 ---
 
