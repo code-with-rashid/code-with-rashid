@@ -28,7 +28,7 @@ The ones I'd point you to first.
 
 **Agent safety & tooling** — adversarial testing, sandboxed execution, browser / computer-use agents.
 
-**Production infra for agents** — the durable, idempotent execution layer that keeps agentic systems reliable in production: PostgreSQL, CitusDB, Elasticsearch, Redis, Celery.
+**Production infra for agents** — the durable, idempotent execution layer that keeps agentic systems reliable in production: PostgreSQL, Elasticsearch, Redis, Celery, Kubernetes.
 
 ## ✍️ Latest writing
 
@@ -45,7 +45,7 @@ The ones I'd point you to first.
 
 **Agentic** — `OpenAI Agents SDK` `Claude` `Claude Code` `MCP` `RAG` `Structured Outputs` `Python` `TypeScript`
 
-**Infra** — `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` `Docker` `GitHub Actions` `Cloudflare` `Vercel`
+**Infra** — `PostgreSQL` `Elasticsearch` `Redis` `Celery` `Docker` `Kubernetes` `GitHub Actions` `Cloudflare` `Vercel`
 
 ---
 
