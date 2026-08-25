@@ -21,4 +21,4 @@ jobs:
           feed_list: "https://medium.com/feed/@codewithrashid"
           max_post_count: 5
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) &nbsp;<sub>$date</sub>$newline"
+          template: "$newline- [$title]($url) &nbsp;<sub>$date</sub>$newline"

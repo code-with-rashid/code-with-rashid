@@ -28,13 +28,14 @@ The ones I'd point you to first.
 
 **Agent safety & tooling** — adversarial testing, sandboxed execution, browser / computer-use agents.
 
-**Backend foundation** — Python, Django/DRF, PostgreSQL, CitusDB, Elasticsearch, Redis, Celery; idempotency and durable execution.
+**Production infra for agents** — the durable, idempotent execution layer that keeps agentic systems reliable in production: Python, Django/DRF, PostgreSQL, CitusDB, Elasticsearch, Redis, Celery.
 
 ## ✍️ Latest writing
 
 **Latest essays** &nbsp;·&nbsp; [all posts →](https://medium.com/@codewithrashid)
 
-<!-- BLOG-POST-LIST:START -->- [Your Agent Is Already in Production. You Just Can’t See It.](https://medium.com/@codewithrashid/your-agent-is-already-in-production-you-just-cant-see-it-710417a4d69f?source=rss-4c641b923a0------2) &nbsp;<sub>Jun 2, 2026</sub>
+<!-- BLOG-POST-LIST:START -->
+- [Your Agent Is Already in Production. You Just Can’t See It.](https://medium.com/@codewithrashid/your-agent-is-already-in-production-you-just-cant-see-it-710417a4d69f?source=rss-4c641b923a0------2) &nbsp;<sub>Jun 2, 2026</sub>
 - [The MCP Supply Chain Is on Fire — and Anthropic Says That’s by Design](https://medium.com/@codewithrashid/the-mcp-supply-chain-is-on-fire-and-anthropic-says-thats-by-design-1745d612cea3?source=rss-4c641b923a0------2) &nbsp;<sub>May 21, 2026</sub>
 - [Why Your Agent Bill Is 30× Your Chatbot Bill — and How to Get It Back Down](https://medium.com/@codewithrashid/why-your-agent-bill-is-30-your-chatbot-bill-and-how-to-get-it-back-down-1b3ddad4afc6?source=rss-4c641b923a0------2) &nbsp;<sub>May 19, 2026</sub>
 - [The Agentic Org Chart: When Multi-Agent Systems Actually Work](https://medium.com/@codewithrashid/the-agentic-org-chart-when-multi-agent-systems-actually-work-1674ad141ecf?source=rss-4c641b923a0------2) &nbsp;<sub>May 15, 2026</sub>
@@ -43,7 +44,9 @@ The ones I'd point you to first.
 
 ## 🛠 Toolbox
 
-`Python` `TypeScript` · `OpenAI Agents SDK` `Claude` `MCP` `RAG` · `Django` `DRF` · `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` · `Docker` `GitHub Actions` `Cloudflare` `Vercel`
+**Agentic** — `OpenAI Agents SDK` `Claude` `Claude Code` `MCP` `RAG` `Python` `TypeScript`
+
+**Infra** — `Django` `DRF` `PostgreSQL` `CitusDB` `Elasticsearch` `Redis` `Celery` `Docker` `GitHub Actions` `Cloudflare` `Vercel`
 
 ---
 
