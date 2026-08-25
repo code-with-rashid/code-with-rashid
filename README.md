@@ -39,7 +39,7 @@ Technical Lead on the AI engineering team at **Open Innovation AI**, building pr
 
 ### Writing
 
-Field notes on agentic engineering — what actually ships in production, not demo-ware. ~500k impressions and ~24k followers across the recent agent series.
+Field notes on agentic engineering — what actually ships in production, not demo-ware.
 
 **Latest essays** &nbsp;·&nbsp; [all posts →](https://medium.com/@codewithrashid)
 
