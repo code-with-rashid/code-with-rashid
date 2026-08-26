@@ -49,4 +49,4 @@ The ones I'd point you to first.
 
 ---
 
-⭐ If any of these save you time, a star helps more people find them.
+⭐ If any of these save you time, a star helps more people find them — and a follow means you'll catch what ships next.
