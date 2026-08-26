@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Rashid 👋</h1>
 
-**Agentic AI builder** · Multi-agent systems, context engineering, evals · 11 yrs backend
+**Architecting agentic AI systems** · LLM orchestration, evals & production AI · Open-source builder
 📍 Abu Dhabi, UAE
 
 🐦 [X](https://x.com/codewithrashid) · ✍️ [Blog](https://codewithrashid.com) · 💼 [LinkedIn](https://www.linkedin.com/in/codewithrashid/) · 📝 [Medium](https://medium.com/@codewithrashid) · ✉️ [Email](mailto:codewithrashid@gmail.com)
@@ -15,7 +15,7 @@ The ones I'd point you to first.
 
 - 🔌 **[truspec](https://github.com/code-with-rashid/truspec)** — Local-first, spec-synced, agent-native API client. Your collection is plain text; your agent, CI, and editor run it and fail the build when code drifts from your OpenAPI spec. Offline, no account.
 - 🥊 **[agentic-arena](https://github.com/code-with-rashid/agentic-arena)** — Compare, explore, and choose the right agentic framework.
-- 🧪 **[claude-adversarial-qa-skill](https://github.com/code-with-rashid/claude-adversarial-qa-skill)** — A Claude Code skill that drives a repo to measured, resumable test-hardening convergence (coverage + mutation + fuzzing + load/soak).
+- 🧩 **[agent-skills](https://github.com/code-with-rashid/agent-skills)** — A growing, portable catalog of Claude Code / Agent-Skills-standard skills (QA loops, adversarial testing, code-explainability) — one-command install, works across Claude Code, Cursor, and Codex CLI.
 - 📖 **[ummah-library](https://github.com/UmmahLibrary/ummah-library)** — Open-source Quran platform and Islamic knowledge ecosystem (AGPL-3.0).
 
 ## 🧭 What I work on
