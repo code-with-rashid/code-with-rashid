@@ -18,6 +18,10 @@ The ones I'd point you to first.
 - 🧩 **[agent-skills](https://github.com/code-with-rashid/agent-skills)** — A growing, portable catalog of Claude Code / Agent-Skills-standard skills (QA loops, adversarial testing, code-explainability) — one-command install, works across Claude Code, Cursor, and Codex CLI.
 - 📖 **[ummah-library](https://github.com/UmmahLibrary/ummah-library)** — Open-source Quran platform and Islamic knowledge ecosystem (AGPL-3.0).
 
+## 📚 Explore my open-source toolbox
+
+I organized my [starred repositories into a practical guide](https://github.com/code-with-rashid/open-source-toolbox) to agent frameworks, coding agents, skills, evals, LLM infrastructure, learning resources, and Islamic open source. Start with a problem and follow the links to the original projects.
+
 ## 🧭 What I work on
 
 **Agentic systems** — multi-agent orchestration (chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer), context engineering, MCP & agent-to-agent protocols, structured outputs & function calling, tool design and role scoping for LLMs.
